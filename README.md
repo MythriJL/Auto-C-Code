@@ -1,7 +1,7 @@
 # Auto-C-Code
  
  
-# this code converts the psedocode to c code
+# this Project converts the psedocode to c code
 
 
 #Requirement
