@@ -4,12 +4,13 @@
 # this Project converts the psedocode to c code
 
 
-#Requirement
+# Requirement
+
 i) gcc
 ii) lex
 iii) yacc
 
-#steps to run the code:
+# steps to run the code:
 
 i) clone the repo
 ii) change the present working directory to the clonned folder
