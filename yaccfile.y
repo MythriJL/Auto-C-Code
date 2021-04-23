@@ -293,7 +293,7 @@ char* get_specifier(char *type){
 int main()
 {
 	extern FILE *yyin;
-	yyin=fopen("Input.txt","r");
+	yyin=fopen("input_nonopt.txt","r");
 	printf("Opened file\n");
 	int yydebug=1;
 	printf("Algorithm\n");
